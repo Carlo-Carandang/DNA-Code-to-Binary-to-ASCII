@@ -11,4 +11,4 @@ Hints:
 * Convert DNA code to binary, then to ASCII, and analyze to find the message from God!
 * Frameshifts can occur
 
-You can see the complete solution here: https://github.com/Carlo-Carandang/DNA-Code-to-Binary-to-ASCII/wiki/From-DNA-Code-to-Binary-to-ASCII--A-Message-from-God%3F
+You can see the complete solution here: https://github.com/Carlo-Carandang/DNA-Code-to-Binary-to-ASCII/wiki/From-DNA-Code-to-Binary-to-ASCII:-A-Message-from-God%3F
